@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+numpy
+tensorflow==2.12.0
+Pillow
+pyttsx3
